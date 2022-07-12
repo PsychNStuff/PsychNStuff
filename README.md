@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PsychNStuff
-- 👀 I’m interested in Psychology, Anthropology, Neuroscience, and all of the statistics and programming that go with it!
-- 🌱 I’m currently learning how to submit files to a terribly made but well-funded database...
+- 👀 I’m interested in psychology and all of the statistics and programming that go with it!
+- 🌱 I’m currently learning about data analysis for bioinformatics in R.
 - 💞️ I’m looking to collaborate on something eventually. I'll let you know when I have time. No, really.
 - 📫 ...
 
