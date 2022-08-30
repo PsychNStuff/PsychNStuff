@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning about data analysis for bioinformatics in R.
 - 💞️ I’m looking to collaborate on something eventually. I'll let you know when I have time. No, really.
 - [Website](https://psychnstuff.github.io/)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=PsychNStuff)](https://github.com/psychnstuff/github-readme-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=PsychNStuff&theme=github_dark&show_icons=true)](https://github.com/psychnstuff/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PsychNStuff&theme=github_dark&show_icons=true)](https://github.com/PsychNStuff/github-readme-stats)
 
 <!---
 PsychNStuff/PsychNStuff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
